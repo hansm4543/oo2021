@@ -1,0 +1,3 @@
+interface Voolujuht{
+    boolean kasJuhib();
+}
